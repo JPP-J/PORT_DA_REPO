@@ -1,6 +1,6 @@
 # 📊 Data Visualization Dashboards
 
-This case study showcases how Tableau and Power BI were used to analyze different datasets like postgresSQL, MtMySQL and CSV files, turning raw data into actionable insights details in [**Data Visualization Presentation**](https://www.canva.com/design/DAGaAbpnfNs/VBBpHbTmypLrZ4WwHkQr4Q/edit?utm_content=DAGaAbpnfNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+This case study showcases how Tableau and Power BI were used to analyze different datasets like postgresSQL, MtMySQL and CSV files, turning raw data into actionable insights details in [**Data Visualization Presentation**](https://www.canva.com/design/DAGaAbpnfNs/VBBpHbTmypLrZ4WwHkQr4Q/edit?utm_content=DAGaAbpnfNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
 ## 1. 🎵 Spotify Dashboard (Tableau)
 
