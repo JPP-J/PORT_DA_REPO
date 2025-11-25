@@ -84,3 +84,5 @@ This case study showcases how Tableau and Power BI were used to analyze differen
 | Sales Forecasting     | Power BI | CSV + ML            | Forecasting, clustering     | Predictive planning & customer segmentation |
 
 > 📌 *These dashboards demonstrate how tools like Tableau and Power BI transform raw data into actionable insights using intuitive design, interactivity, and machine learning integration.*
+
+
